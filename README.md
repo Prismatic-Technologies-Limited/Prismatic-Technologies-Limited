@@ -4,6 +4,9 @@ Welcome to the official GitHub repository of **Prismatic Technologies Limited** 
 
 ---
 # 📊 GitHub Stats
+## 👨‍💻 Contributors
+
+![Contributors](https://contrib.rocks/image?repo=Prismatic-Technologies-Limited/main-repo)
 
 ![Ahmad GitHub stats](https://github-readme-stats.vercel.app/api?username=Prismatic-Technologies-Limited&show_icons=true&theme=tokyonight)
 
