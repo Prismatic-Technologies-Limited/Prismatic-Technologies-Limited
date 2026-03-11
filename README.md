@@ -4,8 +4,6 @@ Welcome to the official GitHub repository of **Prismatic Technologies Limited** 
 
 ---
 
-![CustomTech GitHub Stats](https://github-readme-stats.vercel.app/api?username=kashif-prismatic&show_icons=true&theme=tokyonight)
-
 ## About Us
 
 At **Prismatic Technologies Limited**, we are passionate about building software that streamlines business operations and drives growth. Our team of experts works closely with you to understand your requirements and deliver solutions that are not only functional but also user-friendly, secure, and scalable.
