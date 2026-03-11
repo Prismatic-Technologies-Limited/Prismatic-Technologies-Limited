@@ -4,7 +4,7 @@ Welcome to the official GitHub repository of **Prismatic Technologies Limited** 
 
 ---
 
-![CustomTech GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prismatic-Technologies-Limited&show_icons=true&theme=tokyonight)
+![CustomTech GitHub Stats](https://github-readme-stats.vercel.app/api?username=kashif-prismatic&show_icons=true&theme=tokyonight)
 
 ## About Us
 
