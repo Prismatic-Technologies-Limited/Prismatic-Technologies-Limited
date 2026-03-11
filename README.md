@@ -3,16 +3,6 @@
 Welcome to the official GitHub repository of **Prismatic Technologies Limited** – your trusted partner for bespoke software development. We specialize in providing tailored solutions to meet the unique needs of your business. Whether it's a custom ERP system, POS solution, CRM, LMS, or a fully customized website, we have the expertise to bring your vision to life.
 
 ---
-# 📊 GitHub Stats
-## 👨‍💻 Contributors
-
-![Contributors](https://contrib.rocks/image?repo=Prismatic-Technologies-Limited/main-repo)
-
-![Ahmad GitHub stats](https://github-readme-stats.vercel.app/api?username=Prismatic-Technologies-Limited&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prismatic-Technologies-Limited&layout=compact&theme=tokyonight)
-
----
 ## About Us
 
 At **Prismatic Technologies Limited**, we are passionate about building software that streamlines business operations and drives growth. Our team of experts works closely with you to understand your requirements and deliver solutions that are not only functional but also user-friendly, secure, and scalable.
